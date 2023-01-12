@@ -6,6 +6,8 @@ add_executable(hw_2
         hello_world.cpp
         example.cpp
         example.h
+        move_me_out.cpp
+        move_me_out.h
 )
 
 set_target_properties(hw_2 PROPERTIES
