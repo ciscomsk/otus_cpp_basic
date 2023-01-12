@@ -1,0 +1,14 @@
+cd l_2/hello
+cmake . -B ./build
+cmake --build ./build
+./build/hello
+
+
+cd l_2/hello2
+cmake . -B ./build
+cmake --build ./build
+./build/hello2
+
+
+
+
