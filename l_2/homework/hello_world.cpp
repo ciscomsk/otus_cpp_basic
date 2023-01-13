@@ -3,10 +3,7 @@
 //
 #include <iostream>
 #include "example.h"
-
-void todo_move_me_out() {
-    std::cout << "This function should be located in the separated source file\n";
-}
+#include "move_me_out.h"
 
 int main() {
     std::cout << "Hello, World!\n";

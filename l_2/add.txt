@@ -10,5 +10,11 @@ cmake --build ./build
 ./build/hello2
 
 
+cd l_2/homework
+cmake . -B ./build
+cmake --build ./build
+./build/hw_2
+
+
 
 
