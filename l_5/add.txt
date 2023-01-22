@@ -1,0 +1,11 @@
+cd l_5/dynamic_library
+cmake . -B ./build
+cmake --build ./build
+
+cd l_5/static_library
+cmake . -B ./build
+cmake --build ./build
+
+cd l_5/
+cmake . -B ./build
+cmake --build ./build

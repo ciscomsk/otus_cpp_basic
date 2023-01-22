@@ -1,0 +1,8 @@
+cmake . -B ./build
+cmake --build ./build
+./build/7_minigrep main /home/mike/_learn/C++/otus_basic/_repos/otus_cpp_basic/l_4/7_minigrep.cpp
+./build/7_minigrep main ../7_minigrep.cpp - так не работает
+
+Source file: 7_minigrep.cpp
+Program arguments: main 7_minigrep.cpp
+Working directory: /home/mike/_learn/C++/otus_basic/_repos/otus_cpp_basic/l_4/
